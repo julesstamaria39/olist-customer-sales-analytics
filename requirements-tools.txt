@@ -1,0 +1,5 @@
+# Notebook validation and dataset acquisition; not a complete environment lock.
+nbformat==5.10.4
+kagglehub==1.0.2
+# Pin the SDK used for the verified acquisition.
+kagglesdk==0.1.37

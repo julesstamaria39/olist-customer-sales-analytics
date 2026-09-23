@@ -1,0 +1,6 @@
+product_id,recorded_items,observed_weeks,zero_sales_weeks,median_weekly_items,mae,bias,product_category_name,product_category_name_english,category,product,selected_product_sales_share_pct
+99a4788cb24856965c36a24e339b6058,63.0,16,2,4.5,2.5003296502008947,-0.7464108595027976,cama_mesa_banho,bed_bath_table,bed_bath_table,Product 1,77.77777777777777
+42a2c92a0979a949ca4ea89ec5c7b934,3.0,16,14,0.0,0.4676315287766804,0.36063748775933235,utilidades_domesticas,housewares,housewares,Product 2,3.7037037037037037
+154e7e31ebfa092203795c972e5804a6,12.0,16,10,0.0,1.355059037593951,0.08341460533825042,beleza_saude,health_beauty,health_beauty,Product 3,14.814814814814815
+7e0dc102074f8285580c9777f79c90cf,0.0,16,16,0.0,0.3047746688962423,0.3047746688962423,ferramentas_jardim,garden_tools,garden_tools,Product 4,0.0
+c6dd917a0be2a704582055949915ab32,3.0,16,14,0.0,0.47865659806346905,0.3617809823286604,cool_stuff,cool_stuff,cool_stuff,Product 5,3.7037037037037037

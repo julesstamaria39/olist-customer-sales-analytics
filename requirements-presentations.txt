@@ -1,0 +1,11 @@
+# Optional, project-local slide creation and PDF preview dependencies.
+python-pptx==1.0.2
+reportlab==5.0.1
+pypdfium2==5.13.0
+Pillow==12.3.0
+lxml==6.1.3
+XlsxWriter==3.2.9
+typing-extensions==4.16.0
+charset-normalizer==3.5.1
+# Markdown parsing for scripts/export_report_pdf.py.
+markdown-it-py==4.2.0

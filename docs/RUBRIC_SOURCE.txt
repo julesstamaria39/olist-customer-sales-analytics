@@ -1,0 +1,93 @@
+Pillar 5: Capstone Project: Rubric
+Pillar 5: Capstone Project: Rubric
+Criteria	Ratings	Pts
+This criterion is linked to a Learning OutcomeStep 1: Problem Understanding & Framing
+10 to >5.0 pts
+Outstanding/Exemplary
+• Problem clearly framed with strong business context and data science perspective. • Task type (classification/regression/etc) correctly identified and justified. • Success metrics (technical + business KPIs) are relevant, measurable, and well-explained.
+5 to >0.0 pts
+Adequate / Meets Basic Expectations (Partial Points)
+• Problem stated but lacks depth in business context or data science framing. • Task type identified but weakly justified. • Metrics mentioned but not well-aligned with problem or KPIs unclear.
+0 pts
+No Marks
+• No clear problem statement or task type. • Metrics missing or irrelevant.
+10 pts
+This criterion is linked to a Learning OutcomeStep 2: Data Collection & Understanding
+10 to >5.0 pts
+Outstanding/Exemplary
+• High-quality dataset chosen and justified (source cited). • Comprehensive dataset overview: feature types, missing values, outliers, distributions. • Clear, complete data dictionary (variables, types, ranges/units).
+5 to >0.0 pts
+Adequate / Meets Basic Expectations (Partial Points)
+• Dataset chosen, but justification is weak. • Overview provided but missing some key information (e.g., missing value summary or feature types). • Data dictionary is incomplete or lacks detail.
+0 pts
+No Marks
+No explanation or incorrect distinctions.
+10 pts
+This criterion is linked to a Learning OutcomeStep 3: Data Preprocessing, EDA & Feature Engineering
+10 to >5.0 pts
+Outstanding/Exemplary
+• All preprocessing steps documented with reproducible code. • Clear handling of nulls, outliers, and duplicates. • Insightful applied EDA with visuals, distributions, and correlations. • Feature engineering shows domain knowledge and creativity. • At least one feature selection + dimensionality reduction method used and justified.
+5 to >0.0 pts
+Adequate / Meets Basic Expectations (Partial Points)
+• Preprocessing done but not fully explained. • Basic EDA with few insights or missing relationships. • Feature engineering minimal (basic encoding/scaling only). • Feature selection or dimensionality reduction was used but not justified.
+0 pts
+No Marks
+• No meaningful preprocessing or EDA done. • No feature engineering/selection applied.
+10 pts
+This criterion is linked to a Learning OutcomeStep 4: Model Implementation & Comparison
+20 to >10.0 pts
+Outstanding/Exemplary
+• Multiple models implemented and tuned appropriately. • Evaluation metrics correctly applied and compared across models. • Reproducibility ensured (saved models/configs). • Clear reasoning for model choice based on results.
+10 to >0.0 pts
+Adequate / Meets Basic Expectations (Partial Points)
+• One or two models implemented with minimal tuning. • Evaluation metrics applied but comparison weak or incomplete. • Limited explanation of model choice.
+0 pts
+No Marks
+• No working model implementation. • No evaluation or comparison provided.
+20 pts
+This criterion is linked to a Learning OutcomeStep 5: Critical Thinking, Ethical AI & Bias Auditing
+20 to >10.0 pts
+Outstanding/Exemplary
+• Excellent use of explainability tools (SHAP/LIME/PDP/ICE). • Thorough discussion of data/model limitations (imbalance, leakage, overfitting). • Bias audit performed across sensitive groups with fairness metrics. • Proposes clear, feasible mitigation strategies.
+10 to >0.0 pts
+Adequate / Meets Basic Expectations (Partial Points)
+• Some attempt at explainability but limited insights. • Mentions model limitations superficially. • Bias or fairness checks present but incomplete (no metrics or no mitigations).
+0 pts
+No Marks
+• No bias audit, fairness consideration, or explainability.
+20 pts
+This criterion is linked to a Learning OutcomeStep 6: Final Presentation & Communication
+10 to >5.0 pts
+Outstanding/Exemplary
+• Two high-quality, well-structured presentations (technical + business). • Technical deck: clear methodology, visuals, metrics. • Business deck: ROI, risks, strategy clearly communicated for a non-technical audience. • Visually professional and concise (8–12 slides per deck).
+5 to >0.0 pts
+Adequate / Meets Basic Expectations (Partial Points)
+• Presentations provided but lack polish or depth. • Either technical or business deck missing key elements. • Weak storytelling or cluttered slides.
+0 pts
+No Marks
+• No presentations delivered. OR • Slides fail to communicate key findings.
+10 pts
+This criterion is linked to a Learning OutcomeStep 7: GitHub Profile & Upload
+15 to >10.0 pts
+Outstanding/Exemplary
+• Public GitHub repo structured like an open-source project (src/, notebooks/, data/, models/). • Includes README, requirements.txt, final report, reproducible code. • Clean, professional commit history.
+10 to >5.0 pts
+Adequate / Meets Basic Expectations (Partial Points)
+• GitHub repo provided but lacks structure or documentation. • Code not fully reproducible or poorly organised.
+5 to >0 pts
+No Marks
+• No GitHub repo shared. • Code and report missing.
+15 pts
+This criterion is linked to a Learning OutcomeBonus points
+Creative and well-presented submission
+5 to >2.5 pts
+Outstanding/Exemplary
+Demonstrates exceptional creativity, originality, and clear presentation. The submission goes beyond expectations in terms of design, clarity, or innovation.
+2.5 to >0.0 pts
+Adequate / Meets Basic Expectations (Partial Points)
+Shows some creativity and effort in presentation but lacks depth or refinement in execution.
+0 pts
+No Marks
+Minimal creativity or unclear presentation. No additional effort demonstrated beyond the basic requirements.
+5 pts
+Total Points: 100

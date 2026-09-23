@@ -1,0 +1,4 @@
+trial,family,representation,parameters,silhouette,clusters,coverage,smallest_cluster_share,eligible,seconds,inertia,stability_mean,stability_min,stability_runs,shared_coverage,common_silhouette
+cluster_00,K-Means,Selected features,"{""n_clusters"": 2}",0.7425631748539372,2,1.0,0.03333333333333333,True,0.07554930000333115,15566.134054995222,1.0,1.0,3,1.0,0.7409350831415189
+cluster_11,K-Means,PCA (2),"{""n_clusters"": 2}",0.7425631748539372,2,1.0,0.033166666666666664,True,0.042644100001780316,8170.969800578926,1.0,1.0,3,1.0,0.7409350831415189
+cluster_19,DBSCAN,PCA (2),"{""eps"": 0.4, ""min_samples"": 30}",0.6016515526246481,3,0.9713333333333334,0.014756348661633494,True,0.16109129999676952,,1.0,1.0,3,0.9615972222222222,0.6016515526246481

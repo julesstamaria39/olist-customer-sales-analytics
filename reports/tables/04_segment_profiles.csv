@@ -1,0 +1,3 @@
+segment,customers,recency_days,orders,spend_brl,product_variety,recorded_spend,missing_spend_customers,incomplete_spend_customers,customer_share_pct,recorded_spend_share_pct
+0,5800,142.0,1.0,84.99,1.0,771279.41,41,41,96.66666666666667,93.84012840952444
+1,200,127.0,2.0,176.95,2.0,50628.47,0,4,3.3333333333333335,6.159871590475565

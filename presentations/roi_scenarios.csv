@@ -1,0 +1,4 @@
+assumed_uplift_pp,extra_orders,incremental_contribution_brl,pilot_cost_brl,net_value_brl,roi_pct
+1.0,10.0,400.0,1500,-1100.0,-73.33333333333333
+3.0,30.0,1200.0,1500,-300.0,-20.0
+5.0,50.0,2000.0,1500,500.0,33.333333333333336

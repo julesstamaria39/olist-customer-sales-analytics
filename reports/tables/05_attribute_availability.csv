@@ -1,0 +1,6 @@
+Attribute,Available,Use
+Gender,No,Cannot audit; do not infer
+Race,No,Cannot audit; do not infer
+Age,No,Cannot audit; do not infer
+Income / socioeconomic status,No,Cannot audit; do not infer
+Customer state,Yes,Geographic comparison only

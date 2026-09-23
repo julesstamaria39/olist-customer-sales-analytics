@@ -1,0 +1,33 @@
+# Local environments and Python caches
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local credentials; example templates may be committed
+.env
+.env.*
+!.env.example
+
+# Editor/OS temporary files
+Thumbs.db
+.DS_Store
+*.tmp
+
+# Future final-project data/artifacts: review before explicitly tracking
+/data/*
+!/data/README.md
+/artifacts/
+
+# Regenerated fitted estimators; keep the model inventory tracked
+/models/*.joblib
+
+# Generated previews and local authentication material
+/presentations/previews/
+.kaggle/
+kaggle.json
+*.pem
+*.key

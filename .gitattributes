@@ -1,0 +1,10 @@
+* text=auto eol=lf
+# Preserve generated evidence bytes and binary documents on every platform.
+*.csv -text
+*.json -text
+*.ipynb -text
+*.pdf binary
+*.pptx binary
+*.png binary
+*.jpg binary
+*.joblib binary

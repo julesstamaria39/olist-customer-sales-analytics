@@ -1,0 +1,11 @@
+# Direct dependencies for the complete notebook.
+# Fresh Windows/Python 3.13 environment verified on 2026-09-24; not a transitive lockfile.
+-r requirements-tools.txt
+pandas==3.0.3
+numpy==2.5.0
+matplotlib==3.11.0
+ipykernel==7.3.0
+jupyter_client==8.9.1
+scikit-learn==1.9.0
+joblib==1.5.3
+threadpoolctl==3.6.0

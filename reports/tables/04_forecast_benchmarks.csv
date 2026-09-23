@@ -1,0 +1,3 @@
+candidate,family,validation_mae,fold_mae_std,validation_bias
+Four-week mean,Baseline,1.9541666666666668,0.6986967033937782,-0.5333333333333333
+Last week,Baseline,2.2208333333333337,0.9567468752670862,-0.1791666666666666
