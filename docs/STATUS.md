@@ -1,5 +1,9 @@
 # Workspace status
 
+## Step 7 published - 2026-09-24
+
+Public repository: [https://github.com/julesstamaria39/olist-customer-sales-analytics](https://github.com/julesstamaria39/olist-customer-sales-analytics). Unauthenticated GitHub API checks confirmed public visibility, main as default branch, the initial commit matching local HEAD, and all required deliverables among 96 tracked files. The README and notebook now link the repository. Final report PDF: 12 pages and six embedded charts; both decks: 10 slides each. Source code, data acquisition instructions, model regeneration inventory and reproduction commands are published. No raw/processed datasets, model binaries, credentials or local environments were uploaded. Commits use the account's GitHub noreply email. This completes Step 7 publication; previously stated analytical/fairness limitations remain.
+
 ## Step 7 publication preparation - 2026-09-24
 
 - Created the local Git repository and moved reusable analysis into src/olist_analytics, preserving script compatibility imports. Rewrote the public README with setup, results, deliverables and limits; added contributing and attribution/reuse notices. Code licensing remains unselected.

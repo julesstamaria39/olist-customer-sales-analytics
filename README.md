@@ -41,7 +41,7 @@ Raw/processed datasets, fitted model binaries, local environments and temporary 
 
 ## Reproduce the analysis
 
-Use **Python 3.13**. From a checkout's root, create an isolated environment and install the pinned direct dependencies:
+Use **Python 3.13**. Clone with `git clone https://github.com/julesstamaria39/olist-customer-sales-analytics.git`, enter `olist-customer-sales-analytics`, then create an isolated environment and install the pinned direct dependencies:
 
 ```powershell
 python -m venv .venv
@@ -84,4 +84,4 @@ Data: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/data
 
 ## Publication status
 
-The public GitHub upload is being prepared. The verified repository link will be recorded here after publication.
+Public repository: [https://github.com/julesstamaria39/olist-customer-sales-analytics](https://github.com/julesstamaria39/olist-customer-sales-analytics). Published and verified on 24 September 2026. The required source, notebook, data instructions, model inventory, report and decks are present.

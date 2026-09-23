@@ -70,7 +70,7 @@
     "configs\\step4_daily_forecast.json": "a152db609dba1b61413996376ed6e874d1be5c36a60a68dfcb973554895fcbe6",
     "configs\\step5_bias_audit.json": "fd0b611e8eb6524d0b804b5dab8f16962f6db58121d164afa0b5914156d453e9",
     "docs\\DATA_MANIFEST.json": "3dd68de869d549ce3ec4233b23ad82f427feddff2c5b0087b1e45292b602a677",
-    "notebooks\\Final_Project.ipynb": "7c3891b336a7c0c5b0cf9041ebab4989c82d64f9582bb0fe5284c5d2ede43b3d"
+    "notebooks\\Final_Project.ipynb": "c9e1c7e413a1c043d9931bcf22bfa1a00df4f06976c0d25ca58b94bac2382201"
   },
   "validation_limit": "PDF previews share the PowerPoint layout; no native PowerPoint/LibreOffice renderer is installed.",
   "roi_assumptions": {

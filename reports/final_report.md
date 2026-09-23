@@ -293,6 +293,8 @@ The technical and business presentations each contain 10 slides. Their proposed 
 
 ## 7. Reproducibility and conclusion
 
+Public repository: [olist-customer-sales-analytics](https://github.com/julesstamaria39/olist-customer-sales-analytics), published and verified on 24 September 2026.
+
 The repository contains one executed notebook, reusable source code, data acquisition and verification utilities, model settings, result tables, figures, this report and both decks. Raw data and fitted model binaries are regenerated locally. Follow the [README](../README.md) for environment setup and commands; [STATUS.md](../docs/STATUS.md) records verification and publication status.
 
 The project demonstrates reproducible segmentation and forecasting comparisons, including negative findings. Customer profiles are interpretable, but forecasting accuracy and trend detection do not justify operational deployment. Sensitive-group fairness and mitigation effectiveness remain unverified. Future work needs new evaluation data and measured business outcomes.
